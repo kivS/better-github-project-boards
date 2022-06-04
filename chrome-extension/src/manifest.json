@@ -11,7 +11,7 @@
   },
   "content_scripts": [
    {
-     "matches": ["https://github.com/*/projects/2?fullscreen=true"],
+     "matches": ["https://github.com/*/projects/*"],
      "js": ["content-script.js"]
    }
  ]
