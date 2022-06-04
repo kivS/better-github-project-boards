@@ -6,7 +6,7 @@ import os
 import zipfile
 import glob
 
-APP_NAME = 'Fluctus'
+APP_NAME = 'gitub-project-unboard'
 BUILD_DIR = 'build'
 FILE_EXT_TO_IGNORE = ('.ts', '.DS_Store')
 
